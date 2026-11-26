@@ -1,0 +1,5 @@
+pioneer_sdk2==0.16.1
+opencv-python==4.10.0.84
+numpy==1.26.4
+pyserial==3.5
+mujoco==3.3.7
